@@ -1,0 +1,27 @@
+.footer {
+    padding-top: 20px;
+    width:100%;
+}
+
+#body {
+    padding: 10px;
+}
+
+/*.main-content-wrap {*/
+/*    width: 100%;*/
+/*    margin: 20px 30px;*/
+/*}*/
+
+.submit-button__message {
+    margin: 10px;
+}
+
+#titles
+{
+ text-align: center;   
+}
+
+#titles div, #titles p
+{
+    display: inline-block;
+}
